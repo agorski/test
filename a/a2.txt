@@ -1,2 +1,2 @@
-text zmieniony w hotfix i poprawiony
+text dzialajacy (3cia poprawka)
 druga linia w master branch
