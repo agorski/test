@@ -1,7 +1,7 @@
 linia 1 bbb
 linia 2 bbb
 linia 3 bbb
-linia 4 aaa
+linia 4 aaa (zmiana aaa)
 linia 5 bbb dodana
 linia 6 bbb dodana
 linia 7 bbb dodana
