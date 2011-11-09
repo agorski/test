@@ -1,2 +1,2 @@
-text dodany w branch_f1
+text zmieniony w hotfix
 druga linia w master branch
