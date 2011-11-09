@@ -1,2 +1,2 @@
-text zmieniny w master branch
+text dodany w branch_f1
 druga linia w master branch
