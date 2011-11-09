@@ -2,4 +2,6 @@ linia 1 bbb
 linia 2 bbb
 linia 3 bbb
 
-linia 4 bbb dodana
+linia 5 bbb dodana
+linia 6 bbb dodana
+linia 7 bbb dodana
