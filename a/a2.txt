@@ -2,3 +2,4 @@ text dzialajacy (3cia poprawka)
 druga linia w master branch
 master c2
 master c11
+master c21
