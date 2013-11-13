@@ -3,3 +3,4 @@ linia 2 (aaa)
 linia 3 (aaa)
 r1 c1
 r2 c10
+r3 c20
